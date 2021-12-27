@@ -224,3 +224,6 @@ ytdl_button_denied: "This button is not for you."
 ytdl_help: |
  <b>/ytdl [Word or link]</b> - If you use a link the bot will download from youtube, if you type a word, the bot will search youtube and download.
  <b>/yt [word]</b> - It does a YouTube video search with the word you wrote and returns a list with videos.
+
+# Player
+
